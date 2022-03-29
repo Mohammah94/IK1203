@@ -6,6 +6,7 @@ import tcpclient.TCPClient;
 
 
 public class ConcHTTPAsk {
+    // This is a class called ConcHTTPAsk
     Integer limit = null;
     Integer timeout = null;
     boolean shutdown = false;
